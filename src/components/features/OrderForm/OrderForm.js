@@ -9,6 +9,7 @@ const OrderForm = props => (
   <Row>
     <Col xs={12} >
       <OrderSummary tripCost={props.tripCost} options={props.options} />
+      {console.log(OrderSummary)}
     </Col>
   </Row>
 );
