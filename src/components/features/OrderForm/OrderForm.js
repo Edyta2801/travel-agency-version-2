@@ -1,8 +1,8 @@
 import React from 'react';
-import OrderSummary from '../OrderSummary/OrderSummary.js';
+
 import { Row, Col } from 'react-flexbox-grid';
 import PropTypes from 'prop-types';
-
+import OrderSummary from '../OrderSummary/OrderSummary.js';
 
 
 const OrderForm = props => (
