@@ -10,7 +10,7 @@ const OrderOptionNumber = ({ currentValue, limits, setOptionValue }) => (
       value={currentValue}
       min={limits.min}
       max={limits.max}
-      onChange-={event => setOptionValue(event.currentTarget.value)}
+      onChange={event => setOptionValue(event.currentTarget.value)}
     />
   </div>
 );

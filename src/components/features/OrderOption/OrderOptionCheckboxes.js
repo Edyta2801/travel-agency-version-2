@@ -21,7 +21,7 @@ const OrderOptionCheckboxes = ({ values, currentValue, setOptionValue }) => (
         <input
           type="checkbox"
           value={value.id}
-          /* checked={currentValue[value.id]} */
+          checked={currentValue[value.id]}
           onChange={event => setOptionValue(newValueSet(currentValue, value.id, event.currentTarget.checked))}>
         </input>
         {value.name} {formatPrice(value.price)}
@@ -32,7 +32,7 @@ const OrderOptionCheckboxes = ({ values, currentValue, setOptionValue }) => (
 
 OrderOptionCheckboxes.propTypes = {
   values: PropTypes.array,
-  currentValue: PropTypes.array,
+  currentValue: PropTypes.oneOfType([PropTypes.string, PropTypes.array]),
   setOptionValue: PropTypes.func,
 };
 
