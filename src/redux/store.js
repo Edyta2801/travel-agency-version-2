@@ -1,5 +1,6 @@
 import {combineReducers, createStore} from 'redux';
 import tripList from '../data/trips.json';
+import pricing from '../data/pricing.json';
 
 import globalReducer from './globalRedux';
 import filtersReducer from './filtersRedux';
@@ -23,7 +24,7 @@ const initialState = {
   order:{
     trip:null,
     email:'',
-    options:{},
+    options:pricing.reduce((sum, option) => Object.assign(sum, { [option.id]: (option.defaultValue || '') }), {}),
   },
 };
 
