@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Hero.scss';
+import styles from '../Hero/Hero.scss';
 import PropTypes from 'prop-types';
 
 const Hero = ({variant = '', titleText, imageSrc, ...otherProps}) => (
