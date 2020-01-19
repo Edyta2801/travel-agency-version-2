@@ -48,7 +48,7 @@
     "rimraf": "^2.6.3",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.41.5",
+    "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-merge": "^4.2.1"
   },
@@ -70,6 +70,6 @@
     "lint-staged": "^8.1.5",
     "react-test-renderer": "^16.8.6",
     "redux-devtools-extension": "^2.13.8",
-    "webpack-dev-server": "^2.11.5"
+    "webpack-dev-server": "^3.3.1"
   }
 }
