@@ -47,6 +47,30 @@
       "start-date": "2020-01-21T21:52:06.000Z",
       "totalCost": "$281,320",
       "id": 3
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$151,755",
+      "id": 4
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$151,755",
+      "id": 5
     }
   ]
 }
