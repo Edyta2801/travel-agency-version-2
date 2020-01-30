@@ -71,6 +71,30 @@
       "start-date": "",
       "totalCost": "$151,755",
       "id": 5
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$259,403",
+      "id": 6
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "fgnfg",
+      "contact": "fgfg",
+      "start-date": "",
+      "totalCost": "$259,403",
+      "id": 7
     }
   ]
 }
