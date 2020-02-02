@@ -35,7 +35,7 @@ const devConfig = () => ({
   module: {
     rules: [
       {
-        test: /\.(s*)css$/,
+        test: /\.s(a|c)ss$/,
         use: [
           'style-loader',
           {
@@ -56,7 +56,7 @@ const prodConfig = () => ({
   module: {
     rules: [
       {
-        test:/\.(s*)css$/,
+        test: /\.s(a|c)ss/,
         include: /flexboxgrid/,
         use:[
           MiniCssExtractPlugin.loader,
