@@ -95,6 +95,48 @@
       "start-date": "",
       "totalCost": "$259,403",
       "id": 7
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$259,803",
+      "id": 8
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "suite",
+      "features": [
+        "pool",
+        "kitchen"
+      ],
+      "adults": "2",
+      "children": "1",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$187,883",
+      "id": 9
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "suite",
+      "features": [
+        "pool",
+        "kitchen"
+      ],
+      "adults": "2",
+      "children": "1",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$187,883",
+      "id": 10
     }
   ]
 }
