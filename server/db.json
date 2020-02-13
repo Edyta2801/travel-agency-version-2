@@ -137,6 +137,36 @@
       "start-date": "",
       "totalCost": "$187,883",
       "id": 10
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive",
+        "pool"
+      ],
+      "adults": "2",
+      "children": "1",
+      "name": "Alicja",
+      "contact": "555",
+      "start-date": "2020-02-16T09:20:07.000Z",
+      "totalCost": "$460,255",
+      "id": 11
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive",
+        "pool"
+      ],
+      "adults": "2",
+      "children": "1",
+      "name": "Alicja",
+      "contact": "555",
+      "start-date": "2020-02-16T09:20:07.000Z",
+      "totalCost": "$460,255",
+      "id": 12
     }
   ]
 }
