@@ -4,7 +4,6 @@
 ## Screenshots
 ![](./images/screenshot_1.png)
 ![](./images/screenshot_2.png)
-![](./images/screenshot_5.png)
 
 ## Technologies
 * HTML
