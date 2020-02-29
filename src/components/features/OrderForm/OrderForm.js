@@ -68,8 +68,8 @@ OrderForm.propTypes = {
   tripCost: PropTypes.string,
   options: PropTypes.object,
   setOrderOption: PropTypes.func,
-  tripId: PropTypes.number,
-  countryCode: PropTypes.object,
+  tripId: PropTypes.string,
+  countryCode: PropTypes.string,
   tripName: PropTypes.string,
 };
 

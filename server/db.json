@@ -375,6 +375,38 @@
       "start-date": "",
       "totalCost": "$58,511",
       "id": 28
+    },
+    {
+      "0": "Z",
+      "1": "W",
+      "2": "E",
+      "tripName": "Remarkable swing in fine Zimbabwe",
+      "tripId": "5cc1d101f5472008227158cf",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 29
+    },
+    {
+      "tripName": "Remarkable swing in fine Zimbabwe",
+      "tripId": "5cc1d101f5472008227158cf",
+      "countryCode": "ZWE",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 30
     }
   ]
 }
