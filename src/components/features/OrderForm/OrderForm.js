@@ -12,13 +12,17 @@ import OrderOption from '../OrderOption/OrderOption';
 import Button from '../../common/Button/Button';
 import settings from '../../../data/settings';
 
-const sendOrder = (options, tripCost) => {
+const sendOrder = (options, tripCost, tripId, countryCode, tripName) => {
   const totalCost = formatPrice(calculateTotal(tripCost, options));
 
   const payload = {
+    tripName,
+    tripId,
+    countryCode,
     ...options,
     totalCost,
   };
+
 
   const url = settings.db.url + '/' + settings.db.endpoint.orders;
 
@@ -32,9 +36,9 @@ const sendOrder = (options, tripCost) => {
   };
 
   fetch(url, fetchOptions)
-    .then(function(response){
+    .then(function (response) {
       return response.json();
-    }).then(function(parsedResponse){
+    }).then(function (parsedResponse) {
       console.log('parsedResponse', parsedResponse);
     });
 };
@@ -50,10 +54,10 @@ const OrderForm = props => (
       </Col>
     ))}
     <Col xs={12}>
-      <OrderSummary tripCost={props.tripCost} options={props.options} />
+      <OrderSummary tripCost={props.tripCost} options={props.options} tripId={props.tripId} countryCode={props.countryCode} tripName={props.tripName} />
       <Button
         onClick={() =>
-          sendOrder(props.options, props.tripCost, props.tripId, props.countryCode, props.tripName)}>
+          sendOrder(props.options, props.tripCost, props.tripId, props.countryCode, props.tripName)} >
         Order now!
       </Button>
     </Col>

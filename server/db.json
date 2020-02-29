@@ -217,6 +217,164 @@
       "start-date": "2020-02-29T22:39:33.000Z",
       "totalCost": "$489,294",
       "id": 16
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": "2",
+      "children": "2",
+      "name": "Ala",
+      "contact": "",
+      "start-date": "2020-03-04T10:11:06.000Z",
+      "totalCost": "$120,221",
+      "id": 17
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "house",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": "2",
+      "children": "2",
+      "name": "Ala",
+      "contact": "",
+      "start-date": "2020-03-04T10:11:06.000Z",
+      "totalCost": "$122,221",
+      "id": 18
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 19
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 20
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 21
+    },
+    {
+      "car-rental": "",
+      "accommodation": "house",
+      "features": [
+        "security"
+      ],
+      "adults": "2",
+      "children": "1",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$112,893",
+      "id": 22
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 23
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 24
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "house",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": "2",
+      "children": "2",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$123,021",
+      "id": 25
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 26
+    },
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "tripId": "5cc1d101f5472008227158cf",
+      "countryCode": "ZWE",
+      "tripName": "Remarkable swing in fine Zimbabwe",
+      "id": 27
+    },
+    {
+      "tripName": "Remarkable swing in fine Zimbabwe",
+      "tripId": "5cc1d101f5472008227158cf",
+      "countryCode": "ZWE",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": "",
+      "adults": 1,
+      "children": "",
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$58,511",
+      "id": 28
     }
   ]
 }
