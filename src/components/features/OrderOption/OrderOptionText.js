@@ -8,7 +8,7 @@ const OrderOptionText = ({ setOptionValue }) => (
     type="text"
     placeholder="text"
     onChange={event => setOptionValue(event.currentTarget.value)}
-  ></input>
+  >{console.log(setOptionValue)}</input>
 );
 
 OrderOptionText.propTypes = {

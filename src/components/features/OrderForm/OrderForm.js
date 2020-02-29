@@ -43,6 +43,8 @@ const sendOrder = (options, tripCost, tripId, countryCode, tripName) => {
     });
 };
 
+
+
 const OrderForm = props => (
   <Row>
     {pricing.map(option => (
@@ -56,6 +58,7 @@ const OrderForm = props => (
     <Col xs={12}>
       <OrderSummary tripCost={props.tripCost} options={props.options} tripId={props.tripId} countryCode={props.countryCode} tripName={props.tripName} />
       <Button
+        disabled={props.options.name == '' || props.options.concat == ''}
         onClick={() =>
           sendOrder(props.options, props.tripCost, props.tripId, props.countryCode, props.tripName)} >
         Order now!
