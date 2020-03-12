@@ -482,6 +482,40 @@
       "start-date": "",
       "totalCost": "$245,596",
       "id": 35
+    },
+    {
+      "tripName": "Outstanding adventure in brilliant Slovakia",
+      "tripId": "5e64cb2f77f8cdee9f3cd580",
+      "countryCode": "SVK",
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": "2",
+      "children": "2",
+      "name": "Edyta",
+      "contact": "",
+      "start-date": "2020-04-14T15:47:56.000Z",
+      "totalCost": "$411,998",
+      "id": 36
+    },
+    {
+      "tripName": "Outstanding adventure in brilliant Slovakia",
+      "tripId": "5e64cb2f77f8cdee9f3cd580",
+      "countryCode": "SVK",
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": "2",
+      "children": "2",
+      "name": "Edyta",
+      "contact": "6666",
+      "start-date": "2020-04-14T15:47:56.000Z",
+      "totalCost": "$411,998",
+      "id": 37
     }
   ]
 }
