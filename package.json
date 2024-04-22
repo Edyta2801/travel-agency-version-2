@@ -5,7 +5,7 @@
   "main": "index.js",
   "engines": {
     "node": "14.18.3"
-},
+  },
   "scripts": {
     "start": "npm-run-all -p server:*",
     "server:api": "node server.js",
@@ -37,10 +37,9 @@
     "@typescript-eslint/eslint-plugin": "^2.19.2",
     "@typescript-eslint/parser": "^2.19.2",
     "babel-loader": "^8.0.5",
-    "css-loader": "^2.1.1",
     "eslint-config-react-app": "^5.2.0",
     "html-webpack-plugin": "^3.2.0",
-    "json-server": "^0.15.1",
+    "json-server": "^0.17.4",
     "mini-css-extract-plugin": "^0.6.0",
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
@@ -55,10 +54,7 @@
     "react-scripts": "^3.3.1",
     "redux": "^4.0.1",
     "rimraf": "^2.6.3",
-    "sass-loader": "^7.1.0",
-    "style-loader": "^0.23.1",
     "typescript": "^3.7.5",
-    "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-merge": "^4.2.1",
     "yarn": "^1.22.0"
@@ -66,6 +62,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.8.0",
+    "css-loader": "^2.1.1",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "eslint": "^5.16.0",
@@ -82,6 +79,10 @@
     "npm-run-all": "^4.1.5",
     "react-test-renderer": "^16.8.6",
     "redux-devtools-extension": "^2.13.8",
+    "sass": "^1.75.0",
+    "sass-loader": "^7.3.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.47.0",
     "webpack-dev-server": "^3.3.1"
   }
 }
