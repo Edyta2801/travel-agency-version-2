@@ -1249,7 +1249,7 @@
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/vgb.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/255px-Flag_of_the_British_Virgin_Islands.svg.png",
     "name": "Virgin Islands (British)",
     "alpha2Code": "VG",
     "alpha3Code": "VGB",
@@ -1278,7 +1278,7 @@
         "nativeName": "English"
       }
     ],
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/150px-Flag_of_the_United_States_Virgin_Islands.svg.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/255px-Flag_of_the_British_Virgin_Islands.svg.png",
     "name": "Virgin Islands (U.S.)",
     "alpha2Code": "VI",
     "alpha3Code": "VIR",
