@@ -10,7 +10,7 @@ const dbFileSrc = './src/db.json';
 const dbFileDist = distDir + '/db.json';
 
 if (
-  !fs.existsSync(dbFileDist) && // comment out this line to always overwrite db.json
+  // !fs.existsSync(dbFileDist) && // comment out this line to always overwrite db.json
   fs.existsSync(dbFileSrc)
 ){
   fs.copyFileSync(dbFileSrc, dbFileDist);
