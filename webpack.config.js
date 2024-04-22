@@ -37,7 +37,7 @@ const devConfig = () => ({
       {
         test: /\.(s*)css$/,
         use: [
-          'style-loader',"css-loader", 'sass-loader'
+          'style-loader','css-loader', 'sass-loader',
           {
             loader: 'css-loader',
             query: {
