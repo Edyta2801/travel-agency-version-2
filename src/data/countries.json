@@ -650,7 +650,7 @@
         "nativeName": "বাংলা"
       }
     ],
-    "flag": "https://restcountries.eu/data/bgd.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/bangladesh/flag-400.png",
     "name": "Bangladesh",
     "alpha2Code": "BD",
     "alpha3Code": "BGD",
@@ -988,7 +988,7 @@
         "nativeName": "Nederlands"
       }
     ],
-    "flag": "https://restcountries.eu/data/bes.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/bonaire-flag-jpg-xl.jpg",
     "name": "Bonaire, Sint Eustatius and Saba",
     "alpha2Code": "BQ",
     "alpha3Code": "BES",
@@ -1278,7 +1278,7 @@
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/vir.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/150px-Flag_of_the_United_States_Virgin_Islands.svg.png",
     "name": "Virgin Islands (U.S.)",
     "alpha2Code": "VI",
     "alpha3Code": "VIR",
@@ -1464,7 +1464,7 @@
         "nativeName": "ខ្មែរ"
       }
     ],
-    "flag": "https://restcountries.eu/data/khm.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/cambodia-flag-png-large.png",
     "name": "Cambodia",
     "alpha2Code": "KH",
     "alpha3Code": "KHM",
@@ -1581,7 +1581,7 @@
         "nativeName": "Português"
       }
     ],
-    "flag": "https://restcountries.eu/data/cpv.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/125px-Flag_of_Cape_Verde.svg.png",
     "name": "Cabo Verde",
     "alpha2Code": "CV",
     "alpha3Code": "CPV",
@@ -2040,7 +2040,7 @@
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/cok.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/125px-Flag_of_the_Cook_Islands.svg.png",
     "name": "Cook Islands",
     "alpha2Code": "CK",
     "alpha3Code": "COK",
@@ -2494,7 +2494,7 @@
         "nativeName": "Español"
       }
     ],
-    "flag": "https://restcountries.eu/data/slv.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png",
     "name": "El Salvador",
     "alpha2Code": "SV",
     "alpha3Code": "SLV",
@@ -3137,7 +3137,7 @@
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/gib.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
     "name": "Gibraltar",
     "alpha2Code": "GI",
     "alpha3Code": "GIB",
@@ -3378,7 +3378,7 @@
         "nativeName": "français"
       }
     ],
-    "flag": "https://restcountries.eu/data/ggy.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/800px-Flag_of_Guernsey.svg.png",
     "name": "Guernsey",
     "alpha2Code": "GG",
     "alpha3Code": "GGY",
@@ -3449,7 +3449,7 @@
         "nativeName": "Português"
       }
     ],
-    "flag": "https://restcountries.eu/data/gnb.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/guinea-bissau-flag-png-large.png",
     "name": "Guinea-Bissau",
     "alpha2Code": "GW",
     "alpha3Code": "GNB",
@@ -3668,7 +3668,7 @@
         "nativeName": "中文 (Zhōngwén)"
       }
     ],
-    "flag": "https://restcountries.eu/data/hkg.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/hongkong-flag-jpg-xl.jpg",
     "name": "Hong Kong",
     "alpha2Code": "HK",
     "alpha3Code": "HKG",
@@ -3844,7 +3844,7 @@
         "nativeName": "français"
       }
     ],
-    "flag": "https://restcountries.eu/data/civ.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/125px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
     "name": "Côte d'Ivoire",
     "alpha2Code": "CI",
     "alpha3Code": "CIV",
@@ -4041,7 +4041,7 @@
         "nativeName": "العربية"
       }
     ],
-    "flag": "https://restcountries.eu/data/isr.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/israel/flag-400.png",
     "name": "Israel",
     "alpha2Code": "IL",
     "alpha3Code": "ISR",
@@ -4140,7 +4140,7 @@
         "nativeName": "日本語 (にほんご)"
       }
     ],
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png",
     "name": "Japan",
     "alpha2Code": "JP",
     "alpha3Code": "JPN",
@@ -5012,7 +5012,7 @@
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/mlt.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/malta/flag-400.png",
     "name": "Malta",
     "alpha2Code": "MT",
     "alpha3Code": "MLT",
@@ -5047,7 +5047,7 @@
         "nativeName": "Kajin M̧ajeļ"
       }
     ],
-    "flag": "https://restcountries.eu/data/mhl.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/marshall-islands-flag-png-large.png",
     "name": "Marshall Islands",
     "alpha2Code": "MH",
     "alpha3Code": "MHL",
@@ -5105,7 +5105,7 @@
         "nativeName": "العربية"
       }
     ],
-    "flag": "https://restcountries.eu/data/mrt.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/mauritania/flag-400.png",
     "name": "Mauritania",
     "alpha2Code": "MR",
     "alpha3Code": "MRT",
@@ -5765,7 +5765,7 @@
         "nativeName": "Español"
       }
     ],
-    "flag": "https://restcountries.eu/data/nic.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/nicaragua-flag-png-large.png",
     "name": "Nicaragua",
     "alpha2Code": "NI",
     "alpha3Code": "NIC",
@@ -6783,7 +6783,7 @@
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/kna.svg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/saint-kitts-and-nevis-flag-png-large.png",
     "name": "Saint Kitts and Nevis",
     "alpha2Code": "KN",
     "alpha3Code": "KNA",
@@ -7304,7 +7304,7 @@
         "nativeName": "slovenčina"
       }
     ],
-    "flag": "https://restcountries.eu/data/svk.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/slovakia/flag-400.png",
     "name": "Slovakia",
     "alpha2Code": "SK",
     "alpha3Code": "SVK",
@@ -8267,7 +8267,7 @@
         "nativeName": "العربية"
       }
     ],
-    "flag": "https://restcountries.eu/data/tun.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/tunisia/flag-400.png",
     "name": "Tunisia",
     "alpha2Code": "TN",
     "alpha3Code": "TUN",
@@ -8298,7 +8298,7 @@
         "nativeName": "Türkçe"
       }
     ],
-    "flag": "https://restcountries.eu/data/tur.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/turkey/flag-400.png",
     "name": "Turkey",
     "alpha2Code": "TR",
     "alpha3Code": "TUR",
@@ -8445,7 +8445,7 @@
         "nativeName": "Kiswahili"
       }
     ],
-    "flag": "https://restcountries.eu/data/uga.svg",
+    "flag": "https://cdn.countryflags.com/thumbs/uganda/flag-400.png",
     "name": "Uganda",
     "alpha2Code": "UG",
     "alpha3Code": "UGA",
