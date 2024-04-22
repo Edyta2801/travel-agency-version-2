@@ -41,6 +41,7 @@ const sendOrder = (options, tripCost, tripId, countryCode, tripName) => {
     }).then(function (parsedResponse) {
       console.log('parsedResponse', parsedResponse);
     });
+  return alert('Order accepted!');
 };
 
 
