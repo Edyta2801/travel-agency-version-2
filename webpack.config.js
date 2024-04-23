@@ -35,10 +35,17 @@ const devConfig = () => ({
   module: {
     rules: [
       {
-        test: /\.scss$/,
+        test: /\.(s*)css$/,
         use: [
           'style-loader',
-          'css-loader',
+
+          {
+            loader: 'css-loader',
+            query: {
+              modules: true,
+              localIdentName: '[name]_[local]_[hash:base64:5]',
+            },
+          },
           'sass-loader',
         ],
       },
@@ -50,13 +57,24 @@ const prodConfig = () => ({
   module: {
     rules: [
       {
-        test: /\.scss$/,
-        include: /flexboxgrid/,
+        test: /\.(s*)css$/,
+        exclude: /flexboxgrid/,
         use: [
           MiniCssExtractPlugin.loader,
-          'css-loader',
+          {
+            loader: 'css-loader',
+            options: {
+              modules: true,
+              localIdentName: '[name]_[local]_[hash:base64:5]',
+            },
+          },
           'sass-loader',
         ],
+      },
+      {
+        test: /\.css$/,
+        include: /flexboxgrid/,
+        use: [MiniCssExtractPlugin.loader, 'css-loader'],
       },
     ],
   },
@@ -68,8 +86,9 @@ const prodConfig = () => ({
   ],
 });
 
+
 module.exports = (env, argv) => {
-  const modeConfig = argv.mode === 'production' ? prodConfig : devConfig;
+  const modeConfig = argv.mode == 'production' ? prodConfig : devConfig;
 
   return merge(baseConfig(), modeConfig());
 };
